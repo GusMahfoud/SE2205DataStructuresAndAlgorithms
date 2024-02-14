@@ -1,4 +1,4 @@
-Data Structures and Algorithms in Java
+Data Structures and Algorithms in Java:
 Welcome to the repository for the Data Structures and Algorithms in Java class. 
 This collection of resources encapsulates the fundamental concepts and practical implementations of various data structures and algorithms using Java. 
 Here's what each module covers:
